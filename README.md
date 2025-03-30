@@ -7,10 +7,11 @@ Hi, I'm Madireddy Meena Mahanth Harinadh!
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **AI and DataScience**
-  
+
 - 📫 How to reach me: **meenamahanthharinadh@gmail.com**
-  
+ 
 - ⚡ Fun fact: **I'm Funny 😅**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -75,16 +76,20 @@ Hi, I'm Madireddy Meena Mahanth Harinadh!
 <h3 align="left">📊 Github Stats </h3>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-
+<details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Meena Mahanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=meenamahanth&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Meena Mahanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenamahanth&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
+<!-- 	[![Yashita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashitanamdeo)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Meena Mahanth's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=meenamahanth&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
+</details>
